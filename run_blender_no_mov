@@ -1,0 +1,1 @@
+/usr/bin/blender -b -P ./blend_me_a_video_no_data.py -- "$@"
