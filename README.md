@@ -24,4 +24,7 @@ you need to specify your video's fps as there is no easy way to do it in blender
 The example [meta_data.dat] file is included
 
 
- 
+# [DEPENDENCIES]
+plotter : Veusz,imagemagick
+
+video_blender: Blender
